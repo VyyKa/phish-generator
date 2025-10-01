@@ -1,0 +1,58 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Phish Dataset Generator</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 30px; }
+    .panel { max-width:700px; }
+    label { display:block; margin-top:10px;}
+    input[type="text"], input[type="number"] { width:100%; padding:8px; }
+    button { margin-top:20px; padding:10px 16px; font-size:16px; }
+    .log { margin-top:20px; white-space:pre-wrap; background:#f6f6f6; padding:12px; border-radius:6px; height:220px; overflow:auto;}
+  </style>
+</head>
+<body>
+  <div class="panel">
+    <h2>Phish Dataset Generator (Local)</h2>
+    <p>Chọn cấu hình và bấm <strong>Generate</strong> — file sẽ được tạo trong thư mục <code>output/</code>.</p>
+
+    <label>Số biến thể (augmentation multiplier) cho mỗi template:
+      <input id="mult" type="number" value="10" min="1" />
+    </label>
+
+    <label>Số mẫu LLM (nếu bật LLM): 
+      <input id="llm_count" type="number" value="200" min="0" />
+    </label>
+
+    <label>
+      <input id="use_llm" type="checkbox" /> Bật LLM (cần OPENAI_API_KEY hoặc tương tự)
+    </label>
+
+    <button id="btn">Generate</button>
+
+    <div class="log" id="log">Nhật ký:</div>
+  </div>
+
+<script>
+document.getElementById('btn').addEventListener('click', async ()=>{
+  const mult = parseInt(document.getElementById('mult').value||'10');
+  const llm_count = parseInt(document.getElementById('llm_count').value||'0');
+  const use_llm = document.getElementById('use_llm').checked;
+  const log = document.getElementById('log');
+  log.textContent += '\n=> Bắt đầu tạo dataset...';
+  try {
+    const res = await fetch('/generate', {
+      method: 'POST',
+      headers: {'Content-Type':'application/json'},
+      body: JSON.stringify({mult, use_llm, llm_count})
+    });
+    const data = await res.json();
+    log.textContent += '\n' + JSON.stringify(data, null, 2);
+  } catch(e){
+    log.textContent += '\nERROR: ' + e.toString();
+  }
+});
+</script>
+</body>
+</html>

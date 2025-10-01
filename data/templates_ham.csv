@@ -1,0 +1,4 @@
+﻿id,language,subject,body,from_email,from_name,received_date,urls,attachments,label,intent,source,notes
+1,vi,"HoÃ¡ Ä‘Æ¡n Ä‘iá»‡n tá»­ tá»« CÃ´ng ty ABC","KÃ­nh gá»­i QuÃ½ khÃ¡ch, vui lÃ²ng xem hoÃ¡ Ä‘Æ¡n mua hÃ ng táº¡i file Ä‘Ã­nh kÃ¨m.","billing@companyabc.vn","CÃ´ng ty ABC","2025-08-01T09:00:00+07:00","","invoice.pdf","legit","other","manual_sample","invoice"
+2,vi,"ThÃ´ng bÃ¡o há»p ná»™i bá»™","KÃ­nh gá»­i cÃ¡c thÃ nh viÃªn, buá»•i há»p sáº½ diá»…n ra vÃ o 10:00 ngÃ y mai.","hr@company.vn","PhÃ²ng NhÃ¢n sá»±","2025-09-02T08:00:00+07:00","","","legit","other","manual_sample","internal"
+3,vi,"Newsletter thÃ¡ng 8","Báº£n tin thÃ¡ng 8 vá»›i nhiá»u Æ°u Ä‘Ã£i. Xem chi tiáº¿t táº¡i [URL]","newsletter@shopxyz.com","Shop XYZ","2025-08-01T07:00:00+07:00","[URL]","","legit","other","manual_sample","newsletter"

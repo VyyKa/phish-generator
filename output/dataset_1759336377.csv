@@ -1,0 +1,82 @@
+id,language,subject,body,from_email,from_name,received_date,urls,attachments,label,intent,source,notes
+336377,vi,[Ngân hàng ABC] C?p nh?t b?o m?t tài kho?n,"Kính g?i khách hàng, h? th?ng ghi nh?n ho?t d?ng b?t thu?ng. Vui lòng c?p nh?t m?t kh?u t?1 http://bit.ly/c7c16b trong 24 gi? d? tránh khó@ tà1 kh0?n.",no-reply@nganhang-abc.com,Ngân Hàng ABC,2025-09-01T08:12:00+07:00,http://bit.ly/c7c16b,,phishing,credential,manual_template,bank_alert
+336378,vi,[Ngân hàng ABC] C?p nh?t b?0 m?t tài kho?n,"Kính g?i khá(h hàng, h? th?ng ghi nh?n ho?t d?ng b?t thu?ng. Vui lòng c?p nh?t m?t kh?u t?i http://bit.ly/c7c16b trong 24 gi? d? tránh khóa tài kho?n.",no-reply@nganhang-abc.com,Ngân Hàng ABC,2025-09-01T08:12:00+07:00,http://bit.ly/c7c16b,,phishing,credential,manual_template,bank_alert
+336379,vi,[Ngân hàng @BC] C?p nh?t b?o m?t tài kho?n,"Kính g?i khách hàng, h? th?ng ghi nh?n ho?t d?ng b?t thu?ng. Vui lòng c?p nh?t m?t kh?u t?i [URL] trong 24 gi? d? tránh khó@ tài kho?n.",no-reply@nganhang-abc.com,Ngân Hàng ABC,2025-09-01T08:12:00+07:00,[URL],,phishing,credential,manual_template,bank_alert
+336380,vi,[Ngân hàng ABC] C?p nh?t b?o m?t tài kho?n,"Kính g?i khách hàng, h? th?ng ghi nh?n ho?t d?ng b?t thu?ng. Vui lòng c?p nh?t m?t kh?u t?i http://bit.ly/c7c16b trong 24 gi? d? tránh khóa tài kho?n.",no-reply@nganhang-abc.com,Ngân Hàng ABC,2025-09-01T08:12:00+07:00,http://bit.ly/c7c16b,,phishing,credential,manual_template,bank_alert
+336381,vi,[Ngân hàng ABC] C?p nh?t b?o m?t tài kh0?n,"Kính g?i khách hàng, h? th?ng ghi nh?n ho?t d?ng b?t thu?ng. Vui lòng (?p nh?t m?t kh?u t?i http://bit.ly/c7c16b trong 24 gi? d? tránh khóa tài kho?n.",no-reply@nganhang-abc.com,Ngân Hàng ABC,2025-09-01T08:12:00+07:00,http://bit.ly/c7c16b,,phishing,credential,manual_template,bank_alert
+336382,vi,[Ngân hàng AB(] (?p nh?t b?o m?t tà1 kho?n,"Kính g?i khá(h hàng, h? th?ng gh1 nh?n ho?t d?ng b?t thu?ng. Vui lòng (?p nh?t m?t kh?u t?i [URL] trong 24 gi? d? tránh khó@ tài kho?n.",no-reply@nganhang-abc.com,Ngân Hàng ABC,2025-09-01T08:12:00+07:00,[URL],,phishing,credential,manual_template,bank_alert
+336383,vi,[Ngân hàng ABC] C?p nh?t b?0 m?t tài kho?n,"Kính g?i khách hàng, h? th?ng gh1 nh?n h0?t d?ng b?t thu?ng. Vui lòng c?p nh?t m?t kh?u t?i http://bit.ly/c7c16b tr0ng 24 gi? d? tránh khó@ tài kho?n.",no-reply@nganhang-abc.com,Ngân Hàng ABC,2025-09-01T08:12:00+07:00,http://bit.ly/c7c16b,,phishing,credential,manual_template,bank_alert
+336384,vi,[Ngân hàng ABC] C?p nh?t b?o m?t tài kho?n,"Kính g?i khách hàng, h? th?ng ghi nh?n ho?t d?ng b?t thu?ng. Vui lòng c?p nh?t m?t kh?u t?i [URL] trong 24 gi? d? tránh khóa tài kho?n.",no-reply@nganhang-abc.com,Ngân Hàng ABC,2025-09-01T08:12:00+07:00,[URL],,phishing,credential,manual_template,bank_alert
+336385,vi,[Ngân hàng @B(] C?p nh?t b?o m?t tài kho?n,"Kính g?i khách hàng, h? th?ng ghi nh?n ho?t d?ng b?t thu?ng. Vui lòng c?p nh?t m?t kh?u t?i [URL] trong 24 gi? d? tránh khóa tài kh0?n.",no-reply@nganhang-abc.com,Ngân Hàng ABC,2025-09-01T08:12:00+07:00,[URL],,phishing,credential,manual_template,bank_alert
+336386,vi,[Ngân hàng ABC] (?p nh?t b?o m?t tài kho?n,"Kính g?i khách hàng, h? th?ng ghi nh?n ho?t d?ng b?t thu?ng. Vui lòng c?p nh?t m?t kh?u t?i http://bit.ly/c7c16b trong 24 gi? d? tránh khóa tà1 kho?n.",no-reply@nganhang-abc.com,Ngân Hàng ABC,2025-09-01T08:12:00+07:00,http://bit.ly/c7c16b,,phishing,credential,manual_template,bank_alert
+336387,vi,Quý khách du?c ch?n trúng thu?ng,Chú( m?ng! B?n du?c (h?n nh?n quà g1á tr?. Vui lòng di?n thông tin t?i [URL] d? nh?n gi?i.,notify@quatang.vn,Quà T?ng,2025-08-15T09:00:00+07:00,[URL],,phishing,scam,manual_template,prize
+336388,vi,Quý khách du?c ch?n trúng thu?ng,(húc m?ng! B?n du?c ch?n nh?n quà giá tr?. Vui lòng di?n thông tin t?1 [URL] d? nh?n gi?i.,notify@quatang.vn,Quà T?ng,2025-08-15T09:00:00+07:00,[URL],,phishing,scam,manual_template,prize
+336389,vi,Quý khách du?c ch?n trúng thu?ng,(húc m?ng! B?n du?c ch?n nh?n quà giá tr?. Vu1 lòng di?n thông tin t?i [URL] d? nh?n gi?i.,notify@quatang.vn,Quà T?ng,2025-08-15T09:00:00+07:00,[URL],,phishing,scam,manual_template,prize
+336390,vi,Quý khá(h du?( ch?n trúng thu?ng,Chúc m?ng! B?n du?( ch?n nh?n quà giá tr?. Vui lòng di?n thông tin t?i [URL] d? nh?n gi?i.,notify@quatang.vn,Quà T?ng,2025-08-15T09:00:00+07:00,[URL],,phishing,scam,manual_template,prize
+336391,vi,Quý khách du?c ch?n trúng thu?ng,"Chúc m?ng! B?n du?c ch?n nh?n quà giá tr?. Vui 1òng di?n thông tin t?i [UR1] d? nh?n g1?i.
+
+http://bit.ly/c7c16b",notify@quatang.vn,Quà T?ng,2025-08-15T09:00:00+07:00,http://bit.ly/c7c16b,,phishing,scam,manual_template,prize
+336392,vi,Quý khách du?c ch?n trúng thu?ng,Chúc m?ng! B?n du?c ch?n nh?n quà giá tr?. Vui lòng di?n thông tin t?1 http://bit.ly/c7c16b d? nh?n gi?i.,notify@quatang.vn,Quà T?ng,2025-08-15T09:00:00+07:00,http://bit.ly/c7c16b,,phishing,scam,manual_template,prize
+336393,vi,Quý khách du?( (h?n trúng thu?ng,Chúc m?ng! B?n du?c ch?n nh?n quà giá tr?. Vui lòng di?n thông t1n t?i http://bit.ly/c7c16b d? nh?n gi?i.,notify@quatang.vn,Quà T?ng,2025-08-15T09:00:00+07:00,http://bit.ly/c7c16b,,phishing,scam,manual_template,prize
+336394,vi,Quý khách du?c ch?n trúng thu?ng,Chúc m?ng! B?n du?( (h?n nh?n quà giá tr?. Vui 1òng d1?n thông tin t?i [URL] d? nh?n gi?1.,notify@quatang.vn,Quà T?ng,2025-08-15T09:00:00+07:00,[URL],,phishing,scam,manual_template,prize
+336395,vi,Quý khách du?( (h?n trúng thu?ng,(hú( m?ng! B?n du?c ch?n nh?n quà giá tr?. Vui lòng di?n thông tin t?1 http://bit.ly/c7c16b d? nh?n gi?i.,notify@quatang.vn,Quà T?ng,2025-08-15T09:00:00+07:00,http://bit.ly/c7c16b,,phishing,scam,manual_template,prize
+336396,vi,Quý khách du?c ch?n trúng thu?ng,Chúc m?ng! B?n du?c ch?n nh?n quà giá tr?. Vui lòng di?n thông tin t?i [URL] d? nh?n gi?i.,notify@quatang.vn,Quà T?ng,2025-08-15T09:00:00+07:00,[URL],,phishing,scam,manual_template,prize
+336397,vi,Hoá don d1?n t? dính kèm,"Xin g?i hóa don mua hàng. Vui lòng t?i fi1e dính kèm d? k1?m tr@.
+
+http://bit.ly/a9b9f0",billing@shoponline.com,Shop Online,2025-08-20T11:11:00+07:00,http://bit.ly/a9b9f0,invoice.docm,phishing,malware,manual_template,attachment_macro
+336398,vi,Hoá don di?n t? dính kèm,"Xin g?i hóa d0n mua hàng. Vui lòng t?i file dính kèm d? ki?m tra.
+
+http://example.com",billing@shoponline.com,Shop Online,2025-08-20T11:11:00+07:00,http://example.com,invoice.docm,phishing,malware,manual_template,attachment_macro
+336399,vi,Hoá don di?n t? dính kèm,"Xin g?i hóa don mua hàng. Vui lòng t?i f1le dính kèm d? ki?m tra.
+
+http://example.com",billing@shoponline.com,Shop Online,2025-08-20T11:11:00+07:00,http://example.com,invoice.docm,phishing,malware,manual_template,attachment_macro
+336400,vi,Hoá don di?n t? dính kèm,"Xin g?i hóa don mua hàng. Vui lòng t?i file dính kèm d? ki?m tra.
+
+http://example.com",billing@shoponline.com,Shop Online,2025-08-20T11:11:00+07:00,http://example.com,invoice.docm,phishing,malware,manual_template,attachment_macro
+336401,vi,Hoá don di?n t? dính kèm,"Xin g?i hóa don mua hàng. Vui lòng t?1 file dính kèm d? k1?m tra.
+
+http://example.com",billing@shoponline.com,Shop Online,2025-08-20T11:11:00+07:00,http://example.com,invoice.docm,phishing,malware,manual_template,attachment_macro
+336402,vi,Hoá don di?n t? dính kèm,"Xin g?i hóa d0n mu@ hàng. Vui lòng t?i file dính kèm d? ki?m tra.
+
+http://example.com",billing@shoponline.com,Shop Online,2025-08-20T11:11:00+07:00,http://example.com,invoice.docm,phishing,malware,manual_template,attachment_macro
+336403,vi,Hoá don d1?n t? dính kèm,"Xin g?i hóa don mua hàng. Vui lòng t?i fi1e dính kèm d? ki?m tra.
+
+http://example.com",billing@shoponline.com,Shop Online,2025-08-20T11:11:00+07:00,http://example.com,invoice.docm,phishing,malware,manual_template,attachment_macro
+336404,vi,Hoá d0n di?n t? dính kèm,"Xin g?i hóa don mua hàng. Vui lòng t?i fil3 dính kèm d? ki?m tra.
+
+http://example.com",billing@shoponline.com,Shop Online,2025-08-20T11:11:00+07:00,http://example.com,invoice.docm,phishing,malware,manual_template,attachment_macro
+336405,vi,Hoá don di?n t? dính kèm,"Xin g?i hó@ don mua hàng. Vui lòng t?i file dính kèm d? ki?m tra.
+
+http://bit.ly/a9b9f0",billing@shoponline.com,Shop Online,2025-08-20T11:11:00+07:00,http://bit.ly/a9b9f0,invoice.docm,phishing,malware,manual_template,attachment_macro
+336406,vi,Hoá don di?n t? dính kèm,"Xin g?i hóa don mua hàng. Vui lòng t?i file dính kèm d? ki?m tra.
+
+http://example.com",billing@shoponline.com,Shop Online,2025-08-20T11:11:00+07:00,http://example.com,invoice.docm,phishing,malware,manual_template,attachment_macro
+336407,vi,Tài kho?n Momo c?a b?n b? h?n ch?,Tài kho?n Momo (?a b?n b? h?n ch? do v1 ph?m. Vui lòng xác minh t?i http://bit.ly/c7c16b.,no-reply@momo.vn,Momo,2025-09-01T12:00:00+07:00,http://bit.ly/c7c16b,,phishing,credential,manual_template,e-wallet
+336408,vi,Tài kho?n Momo c?a b?n b? h?n ch?,Tài kho?n Mom0 c?a b?n b? h?n ch? do vi ph?m. Vui lòng xác minh t?i http://bit.ly/c7c16b.,no-reply@momo.vn,Momo,2025-09-01T12:00:00+07:00,http://bit.ly/c7c16b,,phishing,credential,manual_template,e-wallet
+336409,vi,Tài kho?n Mom0 c?a b?n b? h?n (h?,Tà1 kho?n M0mo c?a b?n b? h?n (h? do vi ph?m. Vui lòng xác minh t?i [URL].,no-reply@momo.vn,Momo,2025-09-01T12:00:00+07:00,[URL],,phishing,credential,manual_template,e-wallet
+336410,vi,Tài kho?n Momo c?a b?n b? h?n ch?,Tài kho?n Momo c?a b?n b? h?n ch? do vi ph?m. Vui lòng xá( m1nh t?i [URL].,no-reply@momo.vn,Momo,2025-09-01T12:00:00+07:00,[URL],,phishing,credential,manual_template,e-wallet
+336411,vi,Tài kho?n Mom0 c?a b?n b? h?n ch?,Tài kh0?n Momo c?a b?n b? h?n (h? d0 vi ph?m. Vui lòng xác m1nh t?i [URL].,no-reply@momo.vn,Momo,2025-09-01T12:00:00+07:00,[URL],,phishing,credential,manual_template,e-wallet
+336412,vi,Tài kh0?n Momo c?a b?n b? h?n ch?,"Tài kho?n Momo c?a b?n b? h?n ch? d0 vi ph?m. Vu1 lòng xác minh t?i [UR1].
+
+http://bit.ly/c7c16b",no-reply@momo.vn,Momo,2025-09-01T12:00:00+07:00,http://bit.ly/c7c16b,,phishing,credential,manual_template,e-wallet
+336413,vi,Tài kho?n Momo c?a b?n b? h?n ch?,Tà1 kho?n M0mo c?a b?n b? h?n ch? do vi ph?m. Vui lòng xác minh t?i http://bit.ly/c7c16b.,no-reply@momo.vn,Momo,2025-09-01T12:00:00+07:00,http://bit.ly/c7c16b,,phishing,credential,manual_template,e-wallet
+336414,vi,Tài kh0?n Momo (?a b?n b? h?n ch?,Tài kho?n Mom0 c?a b?n b? h?n ch? do v1 ph?m. Vui lòng xác minh t?i http://bit.ly/c7c16b.,no-reply@momo.vn,Momo,2025-09-01T12:00:00+07:00,http://bit.ly/c7c16b,,phishing,credential,manual_template,e-wallet
+336415,vi,Tài kho?n Momo c?a b?n b? h?n ch?,Tài kho?n Momo c?a b?n b? h?n ch? do vi ph?m. Vui lòng xác minh t?i [URL].,no-reply@momo.vn,Momo,2025-09-01T12:00:00+07:00,[URL],,phishing,credential,manual_template,e-wallet
+336416,vi,Tài kho?n Momo c?a b?n b? h?n ch?,"Tài kho?n Mom0 c?@ b?n b? h?n ch? do vi ph?m. Vui lòng xác minh t?i [UR1].
+
+http://bit.ly/c7c16b",no-reply@momo.vn,Momo,2025-09-01T12:00:00+07:00,http://bit.ly/c7c16b,,phishing,credential,manual_template,e-wallet
+336417,vi,B?n trúng thu?ng m1?n B?c,B?n là ngu?1 trúng gi?i chuong trình mi?n B?c. Vui lòng cung c?p thông tin t?i http://bit.ly/c7c16b.,contest@vnmedia.vn,VN Media,2025-08-10T08:45:00+07:00,http://bit.ly/c7c16b,,phishing,scam,manual_template,contest
+336418,vi,B?n trúng thu?ng mi?n B?c,B?n là ngu?i trúng gi?1 chuong trình m1?n B?c. Vui lòng cung c?p thông t1n t?i http://bit.ly/c7c16b.,contest@vnmedia.vn,VN Media,2025-08-10T08:45:00+07:00,http://bit.ly/c7c16b,,phishing,scam,manual_template,contest
+336419,vi,B?n trúng thu?ng m1?n B?c,B?n là ngu?i trúng gi?i chuong trình mi?n B?c. Vui lòng cung c?p thông tin t?i [URL].,contest@vnmedia.vn,VN Media,2025-08-10T08:45:00+07:00,[URL],,phishing,scam,manual_template,contest
+336420,vi,B?n trúng thu?ng mi?n B?c,B?n là ngu?i trúng gi?i chuong trình mi?n B?c. Vui lòng cung c?p thông tin t?i http://bit.ly/c7c16b.,contest@vnmedia.vn,VN Media,2025-08-10T08:45:00+07:00,http://bit.ly/c7c16b,,phishing,scam,manual_template,contest
+336421,vi,B?n trúng thu?ng mi?n B?(,B?n là ngu?i trúng gi?i chuong trình mi?n B?c. Vui lòng cung c?p thông tin t?i http://bit.ly/c7c16b.,contest@vnmedia.vn,VN Media,2025-08-10T08:45:00+07:00,http://bit.ly/c7c16b,,phishing,scam,manual_template,contest
+336422,vi,B?n trúng thu?ng mi?n B?(,B?n là ngu?i trúng gi?i chuong trình mi?n B?c. Vui lòng cung c?p thông tin t?1 http://bit.ly/c7c16b.,contest@vnmedia.vn,VN Media,2025-08-10T08:45:00+07:00,http://bit.ly/c7c16b,,phishing,scam,manual_template,contest
+336423,vi,B?n trúng thu?ng mi?n B?c,"B?n là ngu?i trúng gi?i chuong trình mi?n B?c. Vui lòng (ung (?p thông tin t?i [UR1].
+
+http://bit.ly/c7c16b",contest@vnmedia.vn,VN Media,2025-08-10T08:45:00+07:00,http://bit.ly/c7c16b,,phishing,scam,manual_template,contest
+336424,vi,B?n trúng thu?ng mi?n B?c,B?n là ngu?i trúng gi?i chu0ng trình mi?n B?(. Vui lòng cung c?p thông tin t?i http://bit.ly/c7c16b.,contest@vnmedia.vn,VN Media,2025-08-10T08:45:00+07:00,http://bit.ly/c7c16b,,phishing,scam,manual_template,contest
+336425,vi,B?n trúng thu?ng mi?n B?c,B?n là ngu?i trúng gi?i chuong trình m1?n B?c. Vui 1òng cung c?p thông tin t?i [URL].,contest@vnmedia.vn,VN Media,2025-08-10T08:45:00+07:00,[URL],,phishing,scam,manual_template,contest
+336426,vi,B?n trúng thu?ng mi?n B?c,B?n là ngu?i trúng gi?i (huong trình mi?n B?c. Vui lòng cung c?p thông t1n t?i http://bit.ly/c7c16b.,contest@vnmedia.vn,VN Media,2025-08-10T08:45:00+07:00,http://bit.ly/c7c16b,,phishing,scam,manual_template,contest
+1,vi,HoÃ¡ Ä‘Æ¡n Ä‘iá»‡n tá»­ tá»« CÃ´ng ty ABC,"KÃ­nh gá»­i QuÃ½ khÃ¡ch, vui lÃ²ng xem hoÃ¡ Ä‘Æ¡n mua hÃ ng táº¡i file Ä‘Ã­nh kÃ¨m.",billing@companyabc.vn,CÃ´ng ty ABC,2025-08-01T09:00:00+07:00,,invoice.pdf,legit,other,manual_sample,invoice
+2,vi,ThÃ´ng bÃ¡o há»p ná»™i bá»™,"KÃ­nh gá»­i cÃ¡c thÃ nh viÃªn, buá»•i há»p sáº½ diá»…n ra vÃ o 10:00 ngÃ y mai.",hr@company.vn,PhÃ²ng NhÃ¢n sá»±,2025-09-02T08:00:00+07:00,,,legit,other,manual_sample,internal
+3,vi,Newsletter thÃ¡ng 8,Báº£n tin thÃ¡ng 8 vá»›i nhiá»u Æ°u Ä‘Ã£i. Xem chi tiáº¿t táº¡i [URL],newsletter@shopxyz.com,Shop XYZ,2025-08-01T07:00:00+07:00,[URL],,legit,other,manual_sample,newsletter
